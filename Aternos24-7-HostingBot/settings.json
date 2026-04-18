@@ -6,7 +6,7 @@
     "type": "mojang"
   },
   "server": {
-    "ip": "STRIK3SMP.aternos.me:48815",
+    "ip": "STRIK3SMP.aternos.me",
     "port": 48815,
     "version": "",
     "try-creative": false
